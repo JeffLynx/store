@@ -29,7 +29,7 @@ registry:
   # Alternatives: hub.docker.com / registry.digitalocean.com / ghcr.io / ...
   server: hub.docker.com
   username: jefflynx
-  password: dckr_pat_ccEchmGJSfUHLNfqVKgL8i5h-d8
+  password: KAMAL_REGISTRY_PASSWORD
 
   # Needed for authenticated registries.
   # username: your-user
